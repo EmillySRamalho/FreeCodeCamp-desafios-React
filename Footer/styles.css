@@ -1,0 +1,28 @@
+body{
+  background-color: #e0e2e5;
+
+}
+
+footer{
+  border-radius: 20px;
+  border: solid 2px pink;
+  background-color: #1E2A38;
+  
+}
+p {
+  font-family: arial;
+  font-size: 15px;
+  text-align: center;
+  color:rgb(210, 53, 82);
+
+}
+
+ul{
+  color: rgb(231, 31, 64)
+}
+
+a{
+  color:#F8D7E3;
+  text-decoration:none;
+}
+
