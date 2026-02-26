@@ -1,0 +1,28 @@
+body{
+  background: rgb(244, 229, 240);
+    
+}
+
+button{
+background: #FF4D8D;
+padding: 15px;
+border-radius: 10px;
+border: 2px solid white;
+color: white;
+font-size: 15px;
+
+}
+
+.container{
+   text-align: center;
+   margin-top: 200px;
+}
+
+h1,h2{
+  color: #465655;
+}
+
+p{
+  font-size: 18px;
+  color: #FF007F;
+}
