@@ -1,0 +1,31 @@
+body {
+  background: #C2185B;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  background: #fff0f5;
+  padding: 40px;
+  border-radius: 10px;
+}
+
+input{
+  color: #C2185B;
+  border-radius: 10px;
+  border: solid 2px;
+  padding: 10px;
+
+}
+
+button{
+  background: #EC4899;
+  color: white;
+  padding: 10px;
+  border-radius: 10px
+}
