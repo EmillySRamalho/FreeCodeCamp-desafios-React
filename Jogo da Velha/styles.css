@@ -1,0 +1,38 @@
+body {
+  background: #0F172A;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+div {
+  background: #F6EEEE;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+.square {
+  background:white;
+  color: rgb(222, 127, 143);
+  width: 60px;
+  height: 60px;
+  font-size: 15px;
+  border: 2px solid #c88989;
+  text-align:center;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 5px;
+  background: rgb(227, 142, 157);
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+h2{
+  color: rgb(222, 107, 126);
+}
